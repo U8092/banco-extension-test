@@ -12,10 +12,11 @@
 
 ## 📚 Information
 
-> This is a template project that showcases banco's API capabilities for developers looking into implementing native **banco** support.
+This plugins hooks banco with Dablakbandit's [Bank](https://www.spigotmc.org/resources/bank-1-21-sale-20-off.3556/?__cf_chl_tk=tlKHo4UrB885gZTKIda51AVjsuR6LS7P78xAdCSbzPU-1724265055-0.0.1.1-5929) plugin.
 
-Here's some examples of what banco-api can do:
-- Interact directly with economy without having to rely on Vault
-- [Register new inventories](https://github.com/myth-MC/banco-extension-template/blob/main/src/main/java/ovh/mythmc/bancoextensiontemplate/inventories/ExampleInventory.java)
-- Register new items
-- [Listen to banco-related events](https://github.com/myth-MC/banco-extension-template/blob/main/src/main/java/ovh/mythmc/bancoextensiontemplate/listeners/ExampleListener.java) (transactions, new accounts, registered items...)
+Supported features:
+- Items stored in Bank's item storage are recognized as valid banco items
+
+**Tested on**
+- banco 0.6.1
+- Bank Lite 4.8.0
