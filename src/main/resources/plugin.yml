@@ -1,6 +1,6 @@
 name: banco-bank-extension
 authors: [ myth-MC, U8092 ]
-version: 1.0.0
+version: '${project.version}'
 api-version: '1.20'
 
 main: ovh.mythmc.bancobankextension.BancoBankExtension
