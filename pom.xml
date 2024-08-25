@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ovh.mythmc</groupId>
-    <artifactId>banco-extension-template</artifactId>
+    <artifactId>banco-bank-extension</artifactId>
     <version>1.0.0</version>
 
     <properties>
@@ -37,8 +37,24 @@
         <dependency>
             <groupId>com.github.myth-MC.banco</groupId>
             <artifactId>banco-api-bukkit</artifactId>
-            <version>dev~0.6-SNAPSHOT</version>
+            <version>v0.6.0</version>
             <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>me.dablakbandit</groupId>
+            <artifactId>bank</artifactId>
+            <version>4.8.0-RELEASE</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/src/main/resources/bank-plugin-lite-latest-all.jar</systemPath>
+        </dependency>
+
+        <dependency>
+            <groupId>me.dablakbandit</groupId>
+            <artifactId>core</artifactId>
+            <version>0.6.4</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/src/main/resources/core-latest.jar</systemPath>
         </dependency>
     </dependencies>
 
