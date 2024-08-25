@@ -1,10 +1,10 @@
 <div align="center">
   <p>
-    <h1>banco</h1>
-    <a href="https://github.com/myth-MC/banco/releases/latest"><img src="https://img.shields.io/github/v/release/myth-MC/banco" alt="Latest release" /></a>
-    <a href="https://github.com/myth-MC/banco/pulls"><img src="https://img.shields.io/github/issues-pr/myth-MC/banco" alt="Pull requests" /></a>
-    <a href="https://github.com/myth-MC/banco/issues"><img src="https://img.shields.io/github/issues/myth-MC/banco" alt="Issues" /></a>
-    <a href="https://github.com/myth-MC/banco/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="License" /></a>
+    <h1>banco-bank-extension</h1>
+    <a href="https://github.com/myth-MC/banco-bank-extension/releases/latest"><img src="https://img.shields.io/github/v/release/myth-MC/banco-bank-extension" alt="Latest release" /></a>
+    <a href="https://github.com/myth-MC/banco-bank-extension/pulls"><img src="https://img.shields.io/github/issues-pr/myth-MC/banco-bank-extension" alt="Pull requests" /></a>
+    <a href="https://github.com/myth-MC/banco-bank-extension/issues"><img src="https://img.shields.io/github/issues/myth-MC/banco-bank-extension" alt="Issues" /></a>
+    <a href="https://github.com/myth-MC/banco-bank-extension/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="License" /></a>
   </p>
 </div>
 
